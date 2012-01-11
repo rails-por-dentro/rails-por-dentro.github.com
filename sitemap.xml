@@ -1,11 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>
+            http://rails-por-dentro.github.com/2012/01/10/extendendo-o-ruby-com-rubygems-parte-1/
+        </loc>
+        <lastmod>2012-01-11T02:32:06-02:00</lastmod>
+    </url>
+    <url>
         <loc>http://rails-por-dentro.github.com/blog/archives/</loc>
-        <lastmod>2012-01-05T14:30:57-02:00</lastmod>
+        <lastmod>2012-01-11T02:32:06-02:00</lastmod>
     </url>
     <url>
         <loc>http://rails-por-dentro.github.com/</loc>
-        <lastmod>2012-01-05T14:30:57-02:00</lastmod>
+        <lastmod>2012-01-11T02:32:06-02:00</lastmod>
     </url>
 </urlset>
