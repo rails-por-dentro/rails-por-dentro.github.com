@@ -4,7 +4,7 @@
   <title><![CDATA[Category: basico | Rails por Dentro]]></title>
   <link href="http://rails-por-dentro.github.com/blog/categories/basico/atom.xml" rel="self"/>
   <link href="http://rails-por-dentro.github.com/"/>
-  <updated>2012-01-11T02:32:06-02:00</updated>
+  <updated>2012-01-11T02:43:43-02:00</updated>
   <id>http://rails-por-dentro.github.com/</id>
   <author>
     <name><![CDATA[Reinaldo Junior]]></name>
@@ -21,6 +21,9 @@
     <content type="html"><![CDATA[<p><a href="https://rubygems.org/">RubyGems</a> é um sistema de empacotamento e distribuição de bibliotecas em Ruby. Ele possui recursos como versionamento, dependência entre bibliotecas, distribuição de executáveis, entre outros.</p>
 
 <p>Neste artigo veremos como gerenciar pacotes rubygems e utilizá-los em seus programas.</p>
+
+<!-- more -->
+
 
 <h2>O ambiente RubyGems</h2>
 
